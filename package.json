@@ -5,7 +5,7 @@
   "main": "yes",
   "repository": {
     "type": "git",
-    "url": "git://github.com/MatthewMueller/uid.git"
+    "url": "git://github.com/treetopllc/uid.git"
   },
   "keywords": [
     "unique",
