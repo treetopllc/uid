@@ -1,0 +1,11 @@
+{
+  "name": "uid",
+  "repo": "treetopllc/uid",
+  "description": "generate unique ids of any length",
+  "version": "0.0.3",
+  "keywords": ["unique", "id", "generator"],
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
