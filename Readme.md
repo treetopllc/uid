@@ -1,4 +1,3 @@
-
 # uid
 
   Generate unique ids of any length.
@@ -22,6 +21,6 @@
  uid() => "rhvtfnt" Defaults to 7
 ```
 
-## License
+Visit https://github.com/lukeed/uid for documentation and installation instructions.
 
-  MIT
+Happy coding!
